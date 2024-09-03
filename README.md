@@ -17,7 +17,7 @@ Followings are the system requirements and dependencies needed to run the **AgeM
 ## 2. Installation
 Please clone the repository, and run with cmd.
 ```python
-git clone https://github.com/Rarapie/AgeMine
+git clone https://github.com/Rarapie/AgeMiner.git
 ```
 ## 3. Usage
 Followings are the basic commands in **AgeMiner**.
