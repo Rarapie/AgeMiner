@@ -30,5 +30,9 @@ Followings are the basic commands in **AgeMiner**.
 |--model |Select 'model1' ~ 'model6' (please refer to section 4) |
 |--output |Designate the path to the output file |
 ### 3.1 Example
-
+```python
+python run.py --input [INPUT] --model model1 --output [OUTPUT]
+```
+`Tips: .csv format input file with 'sep = ;' or 'sep = ,' is recommanded.`  
+`For details about the format of the input file, refer to 'demo/example.csv'`
 ##
