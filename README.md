@@ -19,7 +19,8 @@ Please clone the repository, and run with cmd.
 ```python
 git clone https://github.com/Rarapie/AgeMiner.git
 ```
-After cloning the repository, please unzip the **models.zip** in the 'models' folder. For example, the path of 'model1' should be 'AgeMiner/models/model1.pkl'
+After cloning the repository, please unzip the **models.zip** in the 'models' folder.  
+For example, the path of 'model1' should be 'AgeMiner/models/model1.pkl'
  ## 3. Usage
 Following are the basic commands in **AgeMiner**.
 |Software |Version |
