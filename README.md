@@ -19,7 +19,7 @@ Please clone the repository, and run with cmd.
 ```python
 git clone https://github.com/Rarapie/AgeMiner.git
 ```
-After cloning the repository, please unzip the **models.zip** in the 'models' folder. For example, the path of 'model1' should be 'models/model1.pkl'
+After cloning the repository, please unzip the **models.zip** in the 'models' folder. For example, the path of 'model1' should be 'AgeMiner/models/model1.pkl'
  ## 3. Usage
 Following are the basic commands in **AgeMiner**.
 |Software |Version |
@@ -33,7 +33,7 @@ Following are the basic commands in **AgeMiner**.
 python run.py --input [INPUT] --model model[1-6] --output [OUTPUT]
 ```
 `Tips: .csv format input file with 'sep = ;' or 'sep = ,' is recommended.`  
-`For details about the format of the input file, refer to 'demo/example.csv'`
+`For details about the format of the input file, refer to 'AgeMiner/demo/example.csv'`
 ## 4. Model selection
 Please select the model referring to the following flowchart according to your data situation.
 ![image](https://github.com/Rarapie/AgeMiner/blob/main/flowchart.png)
