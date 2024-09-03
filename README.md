@@ -14,13 +14,11 @@ Followings are the system requirements and dependencies needed to run the **AgeM
 |importlib-resources |6.1.0 or higher |
 |pandas |2.0.3 or higher |
 |scikit-learn |**1.5.1 (mandatory)**|
-
 ## 2. Installation
 Please clone the repository, and run with cmd.
 ```python
 git clone https://github.com/Rarapie/AgeMine
 ```
-
 ## 3. Usage
 Followings are the basic commands in **AgeMiner**.
 |Software |Version |
@@ -31,8 +29,11 @@ Followings are the basic commands in **AgeMiner**.
 |--output |Designate the path to the output file |
 ### 3.1 Example
 ```python
-python run.py --input [INPUT] --model model1 --output [OUTPUT]
+python run.py --input [INPUT] --model model[1-6] --output [OUTPUT]
 ```
 `Tips: .csv format input file with 'sep = ;' or 'sep = ,' is recommanded.`  
 `For details about the format of the input file, refer to 'demo/example.csv'`
-##
+## 4. Model selection
+Please select the model referring to the following flowchart according to your data situation.
+
+
