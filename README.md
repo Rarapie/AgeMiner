@@ -16,3 +16,19 @@ Followings are the system requirements and dependencies needed to run the **AgeM
 |scikit-learn |**1.5.1 (mandatory)**|
 
 ## 2. Installation
+Please clone the repository, and run with cmd.
+```python
+git clone https://github.com/Rarapie/AgeMine
+```
+
+## 3. Usage
+Followings are the basic commands in **AgeMiner**.
+|Software |Version |
+|-|-|
+|--help/-h |View descriptions of all commands |
+|--input |Designate the path to the input file |
+|--model |Select 'model1' ~ 'model6' (please refer to section 4) |
+|--output |Designate the path to the output file |
+### 3.1 Example
+
+##
