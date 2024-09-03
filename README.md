@@ -19,6 +19,7 @@ Please clone the repository, and run with cmd.
 ```python
 git clone https://github.com/Rarapie/AgeMiner.git
 ```
+After cloning the repository, please unzip the **models.zip** in the 'models' folder.
 ## 3. Usage
 Followings are the basic commands in **AgeMiner**.
 |Software |Version |
