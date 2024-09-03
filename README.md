@@ -35,5 +35,5 @@ python run.py --input [INPUT] --model model[1-6] --output [OUTPUT]
 `For details about the format of the input file, refer to 'demo/example.csv'`
 ## 4. Model selection
 Please select the model referring to the following flowchart according to your data situation.
-
+![image](https://github.com/Rarapie/AgeMiner/blob/main/flowchart.png)
 
