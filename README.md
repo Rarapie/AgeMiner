@@ -13,8 +13,8 @@ Following are the system requirements and dependencies needed to run the **AgeMi
 |importlib-metadata |7.1.0 or higher |
 |importlib-resources |6.1.0 or higher |
 |pandas |2.0.3 or higher |
-|scikit-learn |**1.5.1 (mandatory)**|
-Before using the following code to install the specified version of scikit-learn, make sure that your Python projects are not affected by the changed global environment configuration! (Virtual machines such as docker are recommended)
+|scikit-learn |**1.5.1 (mandatory)** |
+#### Before using the following code to install the specified version of scikit-learn, make sure that your Python projects are not affected by the changed global environment configuration! (Virtual machines such as docker are recommended)
 ```python
 pip install scikit-learn==1.5.1
 ```
